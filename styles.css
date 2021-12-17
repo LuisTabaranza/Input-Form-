@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image: url("train.jpg");
+	background-size: 100%;
+    color: ghostwhite
+}
+section{
+	height: 95vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+div.mainsection{
+	background-color: rgba(44, 25, 21, 0.6);
+	width: 45%;
+	height: 75vh;
+	margin: auto;
+		
+	display: flex;
+	align-items: center;
+	justify-content: center
+}
+
+strong{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+	}
